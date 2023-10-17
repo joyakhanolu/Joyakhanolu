@@ -3,7 +3,7 @@
 Hello there! 
 
 I am Joy, a front-end developer and technical/non-technical writer passionate about creating user-friendly experiences As a front-end developer and versatile writer, my passion lies in crafting engaging and user-friendly experiences.
-I lead a community of writers, empowering and motivating members to tap into their creative potential and produce exceptional written work. and opportunities.
+I lead a community of writers, empowering and motivating members to tap into their creative potential and produce exceptional written work and opportunities.
 
 ### Technical writer
 
