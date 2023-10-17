@@ -1,18 +1,26 @@
-My Name is Joy. I am a freelance writer, virtual assistant and a reader. Writes technical articles in Hashnode ([@OseJoy](https://hashnode.com/@OseJoy)) and non-technical articles in Medium ([@JoyAkhanolu](https://medium.com/@JoyAkhanolu)). <br/>
+## Joy Akhanolu
 
-<div align="center">
-<p>
-  <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-</p>
+Hello there! 
+
+I am Joy, a front-end developer and technical/non-technical writer passionate about creating user-friendly experiences As a front-end developer and versatile writer, my passion lies in crafting engaging and user-friendly experiences.
+I lead a community of writers, empowering and motivating members to tap into their creative potential and produce exceptional written work. and opportunities.
+
+### Technical writer
+
+I enjoy writing clear and concise documentation for technical products and services. I have experience writing various documentation, including user guides, API documentation, and release notes.
+
+### Non-technical writer
+
+I also enjoy writing non-technical articles about a variety of topics, including technology, productivity, and personal development.
+
+### Articles
+
+* [Technical Articles](https://hashnode.com/@OseJoy)
+* [Non-Technical Articles](https://medium.com/@JoyAkhanolu)
 
 
-  
+### Contact me
 
-<p> 
-  <a href="https://twitter.com/JoyAkhanolu" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/joy-akhanolu/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@JoyAkhanolu" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
-</p>
-</div>
+* Email: joyakhanolu17@gmail.com
+* LinkedIn: https://www.linkedin.com/in/joy-akhanolu/  
+[LinkedIn](https://www.linkedin.com/in/joy-akhanolu/)
