@@ -21,6 +21,5 @@ I also enjoy writing non-technical articles about a variety of topics, including
 
 ### Contact me
 
-* Email: joyakhanolu17@gmail.com
-* LinkedIn: https://www.linkedin.com/in/joy-akhanolu/  
-[LinkedIn](https://www.linkedin.com/in/joy-akhanolu/)
+* [Email](joyakhanolu17@gmail.com)
+* [LinkedIn](https://www.linkedin.com/in/joy-akhanolu/)
